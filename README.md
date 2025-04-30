@@ -1,4 +1,6 @@
-Olá, meu nome Mateus Dias, sou um Progamador Front End, atualmente estou aprendendo e criando projetos com:
+Olá, meu nome é Mateus Dias! 👨‍💻 
+<br>
+Progamador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt=html-logo/>
