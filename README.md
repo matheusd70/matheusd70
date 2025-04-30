@@ -3,8 +3,8 @@ Olá, meu nome é Mateus Dias! 👨‍💻
 Progamador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt=html-logo/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=logo-css/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=html-logo/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=logo-css/>
 
 E iniciando o aprendizado em:
 <br>
